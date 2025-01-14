@@ -1,0 +1,65 @@
+What is SBI FASTag.
+SBI FASTag is a device that employs Radio Frequency Identification (RFID) technology for making toll payments directly from the prepaid or savings account linked to it. It is affixed on the windscreen of your vehicle and enables you to drive through toll plazas, without stopping for cash transactions. The tag can be purchased from Tag issuers and if it is linked to the prepaid account, then you need to recharge/ top up the tag as per your requirement.
+
+Benefits of the SBI FASTag
+
+Save Time, Fuel and Money
+Easy recharge/Top up of the FASTag account through authorised service providers of SBI across country.
+Online recharge of the SBI FASTag through dedicated online portal for the customer through credit card, debit card, net banking, wallets etc.
+You can view transaction history, toll payment history, balance in the account etc. in the customer portal
+
+KYC Documents Individuals
+Individuals (Documents acceptable as proof of identity/address)
+Passport
+Voter's Identity Card
+Driving Licence
+Aadhaar Letter/Card
+NREGA Card
+Letter issued by the National Population Register containing details of name and address.
+Any one document towards proof of identity and proof of address (either permanent or current )
+
+Minors
+If minor is less than 10 years of age, ID proof of the person who will operate the account to be submitted.
+
+In cases where minor can operate the account independently, KYC procedure for identification/address verification as in the case of any other individuals would apply.
+
+NRIs
+Passport and Residence Visa Copies, duly attested by
+
+Foreign offices
+Notary Public
+Indian Embassy
+officers of correspondent banks whose signatures are verifiable through an authorized(A/B category Forex handling branch) branch of the Bank
+Small Accounts
+(small account' means a savings account in a banking company where
+
+the aggregate of all credits in a financial year does not exceed rupees one lakh;
+the aggregate of all withdrawals and transfers in a month does not exceed rupees ten thousand; and
+the balance at any point of time does not exceed rupees fifty thousand)
+Submission of self-attested photograph and affixation of signature or thump impression before the officer of the Bank who is authorized to approve opening of accounts who will certify under his signature that the person opening the account has affixed his signature or thumb impression, as the case may be, in his presence.
+
+(small account shall remain operational initially for a period of twelve months, and thereafter for a further period of twelve months if the holder of such an account provides evidence before the Bank of having applied for any of the officially valid documents within twelve months of the opening of the said account, with the entire relaxation provisions to be reviewed in respect of the said account after twenty four months)
+
+A small account can also be opened with any one of the following documents which are deemed as ‘Officially Valid Documents'
+
+identity card with applicant's photograph issued by Central/State Government Departments, Statutory/Regulatory Authorities, Public Sector Undertakings, Scheduled Commercial Banks, and Public Financial Institutions;
+letter issued by a gazetted officer, with a duly attested photograph of the person
+
+
+
+SBI InCube branch is a specialised branch to understand and address your banking needs for setting up a start-up We will provide you the best suitable solutions in banking transactions and investments on a robust technology platform for your business model.
+
+Features
+Experienced relationship managers, who know the exact solutions for your banking needs
+Comprehensive competitively priced financial products and services
+Integrated online and mobile banking solutions to save your time & money
+Solutions that streamline receivables and payables and optimise cash conversion cycle
+Limited advisory on investments, taxation and forex transactions that help optimise liquidity, capital preservation and return
+
+POSITIVE PAY SYSTEM (PPS)
+As per Reserve Bank of India directives, Bank has implemented Positive Pay System (PPS) for all modes of cheque payments (Cash/Transfer/Clearing) effective from 01.01.2021. This is a measure for prevention of frauds perpetrated through cheque tampering/alteration. Positive Pay System involves re-confirming of key details of the cheque by drawer to the Bank, which would be cross-checked with the presented cheque at the time of payment processing.
+
+The Positive Pay System implemented in SBI involves a two-step process as under:
+
+Account Registration
+Customer who needs to join the facility will do a one-time registration of his/her/their cheque operated account for Positive Pay System through any of our branches by submitting an application in the prescribed format Annexure I. Registration can also be done through alternate channels viz. Retail Internet Banking (RINB), Corporate Internet Banking (CINB), Mobile Banking (YonoLite) and YONO (Mobile App). Customers need to select an account level limit for registration. This can be any amount depending on customers’ risk perception. However, Bank is planning to make Positive Pay System mandatory for Savings Bank account cheques of Rs.5 lakhs & above and all other account type (Current Account/Cash Credit/Overdraft) cheques of Rs.10 lakhs & above. As such, once the mandatory clauses are made effective, maximum account level limits which can be selected would be the amounts mentioned above. All the registrations already made above the mandatory limits would be brought down to the mandatory level on the effective date
