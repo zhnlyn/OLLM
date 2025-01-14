@@ -94,7 +94,7 @@ basic_interface = create_chat_interfacee(
 
 rag_interface = create_chat_interface(
     fn=query_rag,
-    placeholder="Ask a question related to additional training data.",
+    placeholder="Ask a question related to bank's data (SBI FASTag, KYC, Incube, POSITIVE PAY SYSTEM).",
     title="SBI-CS-GPT 0.1 - RAG",
     description="Interact with the LLM that incorporates retrieval-augmented generation (RAG).",
 )
