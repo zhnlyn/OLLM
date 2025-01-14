@@ -125,7 +125,7 @@ def query_rag(query_text):
             "Database query",
             lambda: db.similarity_search_with_score(
                 query_text,
-                k=5
+                k=10
                 #filter=context_filter
             )
         )
