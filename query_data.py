@@ -107,7 +107,7 @@ def query_data():
     print(f"Query text received: {query_text}")
     query_rag(query_text)
 
-def query_rag(user_role, query_text):
+def query_rag(query_text):
     try:
         total_start_time = time.time()
 
@@ -117,7 +117,7 @@ def query_rag(user_role, query_text):
 
         # Determine context filter based on user role
         # Determine context filter based on user role
-        context_filter = {"access_level": {"$in": ["internal", "public"]}} if user_role == "Internal" else {"access_level":"public"}
+        #context_filter = {"access_level": {"$in": ["internal", "public"]}} if user_role == "Internal" else {"access_level":"public"}
 
 
         # Search the DB with the appropriate context filter
@@ -125,8 +125,8 @@ def query_rag(user_role, query_text):
             "Database query",
             lambda: db.similarity_search_with_score(
                 query_text,
-                k=5,
-                filter=context_filter
+                k=5
+                #filter=context_filter
             )
         )
         if not results:
